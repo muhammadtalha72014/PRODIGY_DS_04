@@ -28,7 +28,7 @@ Sentiment Analysis: Gained experience in using Python for natural language proce
 Data Visualization: Leveraged Tableau to create insightful visualizations that highlight sentiment trends and patterns.
 Public Opinion Insights: The analysis provided valuable insights into public opinion and attitudes, which can be useful for brand management and marketing strategies.
 
-### 6. Conclusion
+### Conclusion
 This project enhanced my skills in text data preprocessing, sentiment analysis, and data visualization. The integration of Python for analysis and Tableau for visualization allowed for a comprehensive understanding of sentiment patterns in social media data.
 
 Feel free to explore the notebook for detailed analysis and the Tableau visualizations for a visual representation of the sentiment insights.
